@@ -5,8 +5,8 @@ Change History for ZConfig
 3.0.4+enfold2 (unreleased)
 --------------------------
 
-- Nothing changed yet.
-
+* Update version [Victor Fernandez de Alba]
+* Merge remote-tracking branch 'enfold/master' [Victor Fernandez de Alba]
 
 3.0.4+enfold1 (2015-04-09)
 --------------------------
