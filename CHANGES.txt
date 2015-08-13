@@ -2,8 +2,8 @@
 Change History for ZConfig
 ==========================
 
-3.0.5 (unreleased)
-------------------
+3.0.5.upcnet (2015-08-13)
+-------------------------
 
 - Nothing changed yet.
 
