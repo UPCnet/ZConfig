@@ -5,6 +5,7 @@ Change History for ZConfig
 3.0.4+upcnet (2015-08-13)
 -------------------------
 
+* This is the version enabling environment variable substitution from frapell
 * Update version [Victor Fernandez de Alba]
 * Merge remote-tracking branch 'enfold/master' [Victor Fernandez de Alba]
 
